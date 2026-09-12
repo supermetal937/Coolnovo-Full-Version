@@ -239,3 +239,6 @@ This repository serves as the official landing page for CoolNovo. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of CoolNovo today!**
+
+---
+**Last updated:** 2026-09-12 08:54:32 UTC
